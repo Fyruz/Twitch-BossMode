@@ -1,2 +1,4 @@
 # Twitch-BossMode
-Python project to create a minigame for a ChatBot
+Python project to create a Twitch chat minigame.
+Free to use / modify
+
